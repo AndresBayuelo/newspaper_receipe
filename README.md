@@ -30,3 +30,6 @@ venv\Scrips\python newspaper_receipe.py --help
 ```
 venv\Scrips\python newspaper_receipe.py eluniversal_2019_11_08_articles.csv
 ```
+```
+venv\Scrips\python newspaper_receipe.py elpais_2019_11_10_articles.csv
+```
