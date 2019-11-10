@@ -17,7 +17,7 @@ pip install virtualenvwrapper-win
 ```
 4. Ubicado en el directorio del proyecto crear el entorno virtual especificando la versión de Python previamente instalada.
 ```
-virtualenv -p C:\Python\Python38 venv
+virtualenv -p C:\Python\Python38\python.exe venv
 ```
 5. Instalar las dependencias.
 ```
